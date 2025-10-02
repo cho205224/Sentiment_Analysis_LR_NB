@@ -1,3 +1,5 @@
+Studying methods(Logistic Regression, Multinomial Naive Bayes) when performing sentiment analysis with and without tuning.
+
 Libraries:
 
 sys
